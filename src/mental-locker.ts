@@ -92,7 +92,7 @@ export const MENTAL_LOCKER: string[] = [
 	'Pera',
 	'Bota',
 	'Pan',
-	'Bum',
+	'Puma',
 	'Pica',
 	'Pelo',
 	'Pesa',
